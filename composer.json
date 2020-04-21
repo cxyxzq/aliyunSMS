@@ -1,0 +1,18 @@
+{
+    "name": "xzq/aliyunsms",
+    "description": "阿里云短信",
+    "keywords": ["sms"],
+    "type": "library",
+    "require": {
+        "alibabacloud/client": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {"xzq\\": "src/xzq"}
+    },
+    "authors": [
+        {
+            "name": "xzq",
+            "email": "3116158188@qq.com"
+        }
+    ]
+}
